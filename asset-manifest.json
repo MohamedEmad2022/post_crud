@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Post-Crud/static/css/main.a2b87985.css",
+    "main.js": "/Post-Crud/static/js/main.30a65e3a.js",
+    "static/js/787.9253f207.chunk.js": "/Post-Crud/static/js/787.9253f207.chunk.js",
+    "index.html": "/Post-Crud/index.html",
+    "static/media/eye-solid.svg": "/Post-Crud/static/media/eye-solid.309fbd62542f7c4c7e0a1aa2f213ef7e.svg",
+    "static/media/pen-solid.svg": "/Post-Crud/static/media/pen-solid.d56bf1faddf487292f26d562ebe24ae7.svg",
+    "static/media/trash-solid.svg": "/Post-Crud/static/media/trash-solid.26cfd3d2054b6e033432eeaef8b63944.svg",
+    "main.a2b87985.css.map": "/Post-Crud/static/css/main.a2b87985.css.map",
+    "main.30a65e3a.js.map": "/Post-Crud/static/js/main.30a65e3a.js.map",
+    "787.9253f207.chunk.js.map": "/Post-Crud/static/js/787.9253f207.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2b87985.css",
+    "static/js/main.30a65e3a.js"
+  ]
+}
