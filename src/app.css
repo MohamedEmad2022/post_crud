@@ -1,0 +1,14 @@
+
+.icons{
+    width: 20px;
+    height: 15px;
+    display: block;
+   
+}
+.cont{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    width: 70%;
+    height: 100px;
+}
