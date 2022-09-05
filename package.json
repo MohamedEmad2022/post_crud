@@ -2,7 +2,7 @@
   "name": "post-app-redux",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mohamedemad2022.github.io/Post-Crud",
+  "homepage": "https://MohamedEmad2022.github.io/react",
   "dependencies": {
     "@reduxjs/toolkit": "^1.7.1",
     "@testing-library/jest-dom": "^5.16.1",
